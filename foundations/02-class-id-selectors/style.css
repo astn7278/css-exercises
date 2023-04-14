@@ -12,3 +12,8 @@
 .med-size {
     font-size: 24px;
 }
+
+#number-4 {
+    background-color: hsl(120, 61%, 68%);
+    font-weight: bold;
+}
